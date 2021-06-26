@@ -6,7 +6,7 @@ A React application build using react library that can be use for posting and re
 
 ## Live site ⚡
 
-[Blogosphere](https://instashop-bd.web.app/)
+[Blogosphere](https://blogosphere-project.web.app)
 
 ## Features ✔
 
